@@ -1,5 +1,13 @@
 # AI-ML based Diabetes Risk Predictor
 
-This project is a CLI based Machine Learning system. It predicts diabetes risk using health parameters by utilizing user inputs.
+# 🩺 AI-Based Diabetes Risk Predictor
 
-Status: Work in progress
+## Overview
+This project is a machine learning-based system that predicts diabetes risk using health parameters.
+
+## Current Status
+- Project setup completed
+- Dataset uploaded
+- Model training completed
+
+Further development in progress.
